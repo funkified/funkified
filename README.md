@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **sergio.vera@icloud.com**, **https://www.linkedin.com/in/sergio-vera-115377200/**
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🔭 Just finished **My Portfolio Project - Escenapp**
 
-- 🌱 I’m currently learning **React.js**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
