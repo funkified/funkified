@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funkified&label=Profile%20views&color=0e75b6&style=flat" alt="funkified" /> </p>
 
 <h1 align="center">Hi 👋, I'm Sergio Vera</h1>
-<h3 align="center">I'm a Holberton Puerto Rico Student and aspiring full stack developer. You'll find all the projects and tasks done with each concept.</h3>
+<h3 align="center">I'm Full stack engineer graduated from Holberton School, Puerto Rico. Here you'll find all projects and contributions I've made.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
